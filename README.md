@@ -4,7 +4,7 @@ This MATLAB app allows users to upload MRI images of the brain and detect tumors
 
 ## Example
 
-[Demo](demo.png)
+![Demo](demo.png)
 
 ## Features
 
