@@ -2,6 +2,10 @@
 
 This MATLAB app allows users to upload MRI images of the brain and detect tumors using image processing techniques.
 
+## Example
+
+[Demo](demo.png)
+
 ## Features
 
 - Upload an MRI image using a simple button interface.
@@ -36,7 +40,5 @@ This MATLAB app allows users to upload MRI images of the brain and detect tumors
 4. Regions with high solidity are identified, and the largest area among them is considered the tumor.
 5. The detected tumor region is highlighted and displayed.
 
-## Example
 
-[Demo](image_url)
 
